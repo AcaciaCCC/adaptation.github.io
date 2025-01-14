@@ -1,6 +1,6 @@
 {
   "vaultName": "Acacia's Note.     ",
-  "lastExport": 1736830063618,
+  "lastExport": 1736830252390,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager native-scrollbars theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -16,22 +16,26 @@
     "3 線上閱讀/風險評估和氣候變遷相關災害繪圖的通用方法—對氣候變遷調適政策的影響.md",
     "3 線上閱讀/設定摘錄.md",
     "Climate Change Adaptation/文章整理.md",
-    "lib/media/pasted-image-20231222140633.png",
-    "lib/media/pasted-image-20231222141401.png",
-    "lib/media/pasted-image-20231222141427.png",
-    "lib/media/pasted-image-20240102042557.png",
-    "lib/media/pasted-image-20240102054535.png",
-    "lib/media/pasted-image-20240102065608.png",
-    "lib/media/截圖-2024-01-02-12.08.05.png",
-    "lib/media/截圖-2024-01-02-12.08.55.png",
-    "lib/media/截圖-2024-01-02-13.06.48.png",
-    "lib/media/截圖-2024-01-02-13.11.04.png",
-    "lib/media/截圖-2024-01-02-13.13.48.png",
-    "lib/media/pasted-image-20240102070531.png",
-    "lib/media/截圖-2024-01-02-11.55.27.png",
-    "lib/media/pasted-image-20240102070749.png",
-    "lib/media/截圖-2024-01-02-12.45.56.png",
-    "lib/media/截圖-2024-01-02-12.57.18.png",
+    "學習資源整理.md",
+    "z 快捷鍵.md",
+    "0-匯入檔案/截圖-2024-05-09-23.24.32.png",
+    "0-匯入檔案/截圖-2024-05-09-23.25.04.png",
+    "0-匯入檔案/截圖-2024-05-09-23.30.13.png",
+    "0-匯入檔案/截圖-2024-05-09-23.32.23.png",
+    "0-匯入檔案/截圖-2024-05-09-23.33.12.png",
+    "0-匯入檔案/截圖-2024-05-09-23.35.00.png",
+    "0-匯入檔案/截圖-2024-05-09-23.35.45.png",
+    "0-匯入檔案/截圖-2024-05-09-23.38.35.png",
+    "0-匯入檔案/截圖-2024-05-09-23.42.13.png",
+    "0-匯入檔案/截圖-2024-05-09-23.43.42.png",
+    "0-匯入檔案/截圖-2024-05-09-23.45.05.png",
+    "0-匯入檔案/截圖-2024-05-09-23.45.41.png",
+    "0-匯入檔案/截圖-2024-05-09-23.46.11.png",
+    "0-匯入檔案/截圖-2024-05-09-23.50.21.png",
+    "0-匯入檔案/截圖-2024-05-09-23.50.52.png",
+    "0-匯入檔案/截圖-2024-05-09-23.53.08.png",
+    "0-匯入檔案/截圖-2024-05-10-00.14.09.png",
+    "0-匯入檔案/截圖-2024-05-10-00.13.57.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -61,7 +65,23 @@
     "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "lib/media/pasted-image-20231222140633.png",
+    "lib/media/pasted-image-20231222141401.png",
+    "lib/media/pasted-image-20231222141427.png",
+    "lib/media/pasted-image-20240102042557.png",
+    "lib/media/pasted-image-20240102054535.png",
+    "lib/media/pasted-image-20240102065608.png",
+    "lib/media/截圖-2024-01-02-12.08.05.png",
+    "lib/media/截圖-2024-01-02-12.08.55.png",
+    "lib/media/截圖-2024-01-02-13.06.48.png",
+    "lib/media/截圖-2024-01-02-13.11.04.png",
+    "lib/media/截圖-2024-01-02-13.13.48.png",
+    "lib/media/pasted-image-20240102070531.png",
+    "lib/media/截圖-2024-01-02-11.55.27.png",
+    "lib/media/pasted-image-20240102070749.png",
+    "lib/media/截圖-2024-01-02-12.45.56.png",
+    "lib/media/截圖-2024-01-02-12.57.18.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -97,181 +117,181 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1736830063618,
-      "sourceSize": 9985,
+      "modifiedTime": 1736830252390,
+      "sourceSize": 11325,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 348,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1736830063618,
-      "sourceSize": 866,
+      "modifiedTime": 1736830252390,
+      "sourceSize": 920,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 131118,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 141644,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 8284,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 311,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1736830063618,
+      "modifiedTime": 1736830252390,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -452,6 +472,145 @@
       "modifiedTime": 1736830063618,
       "sourceSize": 150420,
       "exportedPath": "lib/media/截圖-2024-01-02-12.57.18.png",
+      "dependencies": []
+    },
+    "學習資源整理.md": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 4204,
+      "exportedPath": "學習資源整理.html",
+      "dependencies": []
+    },
+    "z 快捷鍵.md": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 641,
+      "exportedPath": "z-快捷鍵.html",
+      "dependencies": [
+        "0-匯入檔案/截圖-2024-05-09-23.24.32.png",
+        "0-匯入檔案/截圖-2024-05-09-23.25.04.png",
+        "0-匯入檔案/截圖-2024-05-09-23.30.13.png",
+        "0-匯入檔案/截圖-2024-05-09-23.32.23.png",
+        "0-匯入檔案/截圖-2024-05-09-23.33.12.png",
+        "0-匯入檔案/截圖-2024-05-09-23.35.00.png",
+        "0-匯入檔案/截圖-2024-05-09-23.35.45.png",
+        "0-匯入檔案/截圖-2024-05-09-23.38.35.png",
+        "0-匯入檔案/截圖-2024-05-09-23.42.13.png",
+        "0-匯入檔案/截圖-2024-05-09-23.43.42.png",
+        "0-匯入檔案/截圖-2024-05-09-23.45.05.png",
+        "0-匯入檔案/截圖-2024-05-09-23.45.41.png",
+        "0-匯入檔案/截圖-2024-05-09-23.46.11.png",
+        "0-匯入檔案/截圖-2024-05-09-23.50.21.png",
+        "0-匯入檔案/截圖-2024-05-09-23.50.52.png",
+        "0-匯入檔案/截圖-2024-05-09-23.53.08.png",
+        "0-匯入檔案/截圖-2024-05-10-00.14.09.png",
+        "0-匯入檔案/截圖-2024-05-10-00.13.57.png"
+      ]
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.24.32.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 74955,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.24.32.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.25.04.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 21368,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.25.04.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.30.13.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 34209,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.30.13.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.32.23.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 20720,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.32.23.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.33.12.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 34071,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.33.12.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.35.00.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 18590,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.35.00.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.35.45.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 34521,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.35.45.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.38.35.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 36799,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.38.35.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.42.13.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 40119,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.42.13.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.43.42.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 56886,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.43.42.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.45.05.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 67791,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.45.05.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.45.41.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 19414,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.45.41.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.46.11.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 20544,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.46.11.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.50.21.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 36817,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.50.21.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.50.52.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 24429,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.50.52.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-09-23.53.08.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 56179,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-09-23.53.08.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-10-00.14.09.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 22630,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-10-00.14.09.png",
+      "dependencies": []
+    },
+    "0-匯入檔案/截圖-2024-05-10-00.13.57.png": {
+      "modifiedTime": 1736830252390,
+      "sourceSize": 22242,
+      "exportedPath": "0-匯入檔案/截圖-2024-05-10-00.13.57.png",
       "dependencies": []
     }
   }
