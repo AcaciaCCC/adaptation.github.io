@@ -361,6 +361,12 @@
 				</div>
 				<include src="lib/html/file-tree.html"></include>
 			</div>
+			</div>
+			<ul class="dir-list">
+				<li><div class="file-icon"></div><a class="active current_page_dirtree" href="/index.html"  >Home</a></li>
+				<li><div class="file-icon"></div><a class="" href="/news.html"  >News</a></li>
+			</ul>
+			</div>
 			<script defer="">
 				let ls = document.querySelector(".sidebar-left");
 				ls.classList.add("is-collapsed");
@@ -770,13 +776,17 @@ mjx-c.mjx-c1D457.TEX-I::before { padding: 0.661em 0.412em 0.204em 0px; content: 
 					<polyline points="7 7 17 7 17 17"></polyline>
 				</svg>
 			</div>
+
+
+
+
 			<canvas id="graph-canvas" class="hide" width="512px" height="512px"></canvas>
 		</div>
 		<div class="tree-container mod-root nav-folder tree-item outline-tree" data-depth="0">
 			<div class="tree-header">
 				<span class="sidebar-section-header">Table Of Contents</span>
 				<button class="clickable-icon collapse-tree-button" aria-label="Collapse All">
-					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></svg>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"></svg>
 				</button>
 			</div>
 			<div class="tree-scroll-area tree-item-children nav-folder-children">
