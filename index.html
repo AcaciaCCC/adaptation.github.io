@@ -361,8 +361,18 @@
 				</div>
 				<include src="lib/html/file-tree.html"></include>
 				<div class="file-button-container">
-					<a href="index.html" class="file-button" aria-label="Go to index.html">Index</a>
+					<a href="index.html" >
+						<div class="tree-item-contents nav-file-title">
+							<div class="tree-item-icon">
+								<svg class="svg-icon lucide-file" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+									<path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path>
+									<path d="M14 2v4a2 2 0 0 0 2 2h4"></path>
+								</svg>
+							</div>
+							<span>home</span>
+						</div>
 				</div>
+
 			</div>
 			<script defer="">
 				let ls = document.querySelector(".sidebar-left");
@@ -802,3 +812,5 @@ mjx-c.mjx-c1D457.TEX-I::before { padding: 0.661em 0.412em 0.204em 0px; content: 
 			if (window.innerWidth > 768) rs.classList.remove("is-collapsed");
 			rs.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-right-width"));
 		</script>
+	</div>
+</div>
