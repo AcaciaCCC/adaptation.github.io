@@ -1,55 +1,53 @@
 <!DOCTYPE html> <html lang="zh-tw"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>您的網站名稱</title>
-    <style>
-        /* 設置頁首樣式 */
-        header {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            background-color: #333;
-            color: white;
-            padding: 10px 0;
-            text-align: center;
-            z-index: 1000;
-        }
+        <style>
+            /* 設置頁尾樣式 */
+            footer {
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                background-color: #333;
+                color: white;
+                padding: 10px 0;
+                text-align: center;
+                z-index: 1000;
+            }
 
-        header a {
-            color: white;
-            text-decoration: none;
-            margin: 0 20px;
-        }
+            footer a {
+                color: white;
+                text-decoration: none;
+                margin: 0 20px;
+            }
 
-        header a:hover {
-            text-decoration: underline;
-        }
+            footer a:hover {
+                text-decoration: underline;
+            }
 
-        /* 讓頁面內容不被頁首遮住 */
-        body {
-            padding-top: 50px;
-        }
-    </style>
-</head>
-<body>
+            /* 讓頁面內容不被頁尾遮住 */
+            body {
+                padding-bottom: 50px;
+            }
+        </style>
+    <body>
 
-<header>
-    <a href="index.html">您的網站名稱</a>
-    <a href="index.html">關於我</a>
-    <a href="index.html">使用說明</a>
-    <a href="index.html">留言區</a>
-</header>
+    <!-- 這裡是頁面其他內容 -->
+    <div>
+        <p>這是頁面內容。</p>
+    </div>
 
-<!-- 這裡是頁面其他內容 -->
+    <footer>
+        <a href="index.html">您的網站名稱</a>
+        <a href="index.html">關於我</a>
+        <a href="index.html">使用說明</a>
+        <a href="index.html">留言區</a>
+    </footer>
 
-
-</body>
-
-
+    </body>
 
 
-
+    
     <title>文章整理</title>
     <base href="..">
     <meta name="pathname" content="climate-change-adaptation/文章整理.html">
